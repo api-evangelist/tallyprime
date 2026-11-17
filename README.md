@@ -64,13 +64,17 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Tally (TallyPrime) provides comprehensive business management software for small and medium enterprises, offering accounting, inventory, payroll, and tax compliance solutions. Based in India, the platform supports multi‑currency, multi‑location operations and integrates with banking and government portals. TallyPrime aims to simplify financial workflows, improve reporting accuracy, and enable businesses to scale efficiently across regions.
+Tally (TallyPrime) provides business management software for small and medium enterprises, offering accounting, inventory, tax compliance, and integrated banking solutions. Based in India, the platform helps SMBs streamline operations, automate financial processes, and access cloud services. The company also offers a developer hub with APIs for customization and integration, supporting extensions, data exchange, and marketplace tools.
 
-**Areas:** Accounting · Business-Software · SMB · India · ERP
+**Areas:** Accounting · SMB · BusinessSoftware · India · DeveloperHub
 
 ## Tally (TallyPrime) on APIs.io
 
 Everything profiled for Tally (TallyPrime) is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/tallyprime/](https://apis.io/providers/tallyprime/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [TallyPrime API](https://apis.io/apis/tallyprime/tallyprime-api/) — TallyPrime provides a developer portal with documentation but no publicly available machine‑readable API contract.
 
 ### Published properties
 
@@ -82,34 +86,41 @@ Authentication, trust centre, and vulnerability disclosure.
 
 - [Tally (TallyPrime) Domain Security](https://apis.io/security/tallyprime/tallyprime-domain-security/)
 
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Tally (TallyPrime) Plans Pricing](https://apis.io/plans/tallyprime/tallyprime-plans-pricing/)
+
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://tallysolutions.com/)
-- [Documentation](https://developer.tallysolutions.com/)
 - [Getting started](https://tallysolutions.com/tallyprime-getting-started/)
 - [API reference](https://tallysolutions.com/tallyprime-api-explorer/)
 - [Sign up](https://tallysolutions.com/business-guides/register-proprietorship-firm-india/)
-- [Support](https://help.tallysolutions.com/)
+- [Support](https://tallysolutions.com/contact-us/)
+- [Blog](https://tallysolutions.com/blogs/)
 - [Terms of service](https://tallysolutions.com/terms-conditions/)
 - [Privacy policy](https://tallysolutions.com/privacy-policy/)
+- [GitHub](https://github.com/TallySolutions)
 - [Status](https://status.tallysolutions.com/)
 
 ## API Evangelist rating
 
-**Kin Score 18.9** — emerging · rubric 0.28.0 · scored 2026-11-17
+**Kin Score 29.3** — thin · rubric 0.27.0 · scored 2026-11-17
 
 | Facet | Score |
 |---|---|
-| Discoverability | 44.6 |
+| Discoverability | 57.1 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 14.3 |
-| Developer ergonomics | 40.5 |
-| Access clarity | 27.7 |
+| Operational transparency | 21.1 |
+| Developer ergonomics | 42.9 |
+| Access clarity | 62.6 |
 
-**Agent readiness 3.1** — human-only
+**Agent readiness 6.0** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -124,7 +135,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Rate Limit Signal | — |
 | Event Surface Described | — |
 | Agent Skills | — |
-| Well Known Catalog | — |
+| Well Known Catalog | yes |
 | Consent Identity | — |
 | Agent Card | — |
 | Dry Run Mode | — |
@@ -136,7 +147,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 7.8** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/tallyprime/](https://apis.io/providers/tallyprime/).
 
